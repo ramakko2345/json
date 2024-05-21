@@ -772,6 +772,7 @@
     {"original": "Cold Resistance", "new": "冷気耐性"},
     {"original": "Poison Resistance", "new": "毒耐性"},
     {"original": "Shadow Resistance", "new": "シャドウ耐性"},
+    {"original": "All Stats", "new": "全耐性"},
 
     {"original": "Cooldown Reduction", "new": "クールタイム短縮"},
     {"original": "Thorns while Fortified", "new": "荊棘の加護"},
@@ -795,8 +796,8 @@
     {"original": "Critical Strike Damage", "new": "クリティカルヒットダメージ"},
     {"original": "Damage while Berserking", "new": "バーサーク状態中のダメージ"},
     {"original": "Maximum Fury", "new": "最大怒気"},
-    
-    
+    {"original": "Critical Strike Chance", "new": "クリティカルヒット率"},
+    {"original": "Total Armor", "new": "防御力"},
      
     
     
