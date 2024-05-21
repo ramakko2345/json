@@ -259,13 +259,12 @@
     {"original": "Wind Striker", "new":"まとう風の化身"},
     {"original": "Ghostwalker", "new":"ゴーストウォーカーの化身"},
     {"original": "Slaughter", "new":"殺戮の化身"},
-    {"original": "Metamorphosis", "new":"変容の化身"}
+    {"original": "Metamorphosis", "new":"変容の化身"},
+    
+    {"// コメント": "---------------------------------------- 化身終わり ----------------------------------------"},
   ],
-  
-  
-  
-  "replacements": [
-  
+
+  "replacements": [  
     {"// コメント": "---------------------------------------- パラゴン ----------------------------------------"},
     {"original": "Starting Board", "new":"開始ボード"},
     
@@ -751,8 +750,7 @@
 
     {"original": "Max Evade Charges", "new": "最大回避チャージ"},
     {"original": "Brawling Cooldown Reduction", "new": "決闘スキルのクールダウン時間短縮"},
-        
-        
+
     {"original": "Helm", "new": "頭"},
     {"original": "Chest Armor", "new": "胴"},
     {"original": "Gloves", "new": "腕"},
@@ -805,6 +803,6 @@
     
     
     
-    {"original": "Hoge", "new": "ほげ"}
+    {"// コメント": "---------------------------------------- replacements終わり ----------------------------------------"},
   ]
 }
