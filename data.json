@@ -468,6 +468,9 @@
     {"original": "Walking Arsenal", "new":"歩く武器庫"},
     {"original": "Unbridled Rage", "new":"みなぎる怒り"},
     {"original": "Gushing Wounds", "new":"迸る流血"},
+    {"original": "Concussion", "new":"威風堂々"},
+    {"original": "To Concussion", "new":"威風堂々"},
+    
     {"original": "Earth Spike", "new":"大地の牙"},
     {"original": "Claw", "new":"狼爪"},
     {"original": "Storm Strike", "new":"嵐の一撃"},
@@ -785,10 +788,14 @@
     {"original": "Lucky Hit", "new": "幸運の一撃"},
     {"original": "Chance to Make Enemies Vulnerable", "new": "敵を脆弱状態にする"},
     {"original": "Damage to Close Enemies", "new": "近距離の敵へのダメージ"},
+    
+    {"original": "1h Sword", "new": "剣"},
+    {"original": "2h Sword", "new": "両手剣"},
     {"original": "1h Axe", "new": "斧"},
     {"original": "2h Axe", "new": "両手用斧"},
     {"original": "1h Mace", "new": "メイス"},
     {"original": "2h Mace", "new": "両手用メイス"},
+
     {"original": "Overpower Damage", "new": "オーバーパワーダメージ"},
     {"original": "Vulnerable Damage", "new": "脆弱ダメージ"},
     {"original": "Earthquake Duration", "new": "アースクエイクの持続時間"},
@@ -800,7 +807,8 @@
     {"original": "Total Armor", "new": "防御力"},
     {"original": "Resource Generation", "new": "リソース生成量"},
     
-    
+    {"original": "Damage", "new": "ダメージ"},
+    {"original": "Ranks To", "new": "ランク："},
     
     
     
