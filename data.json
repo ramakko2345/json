@@ -788,7 +788,7 @@
     {"original": "Lucky Hit", "new": "幸運の一撃"},
     {"original": "Chance to Make Enemies Vulnerable", "new": "敵を脆弱状態にする"},
     {"original": "Damage to Close Enemies", "new": "近距離の敵へのダメージ"},
-    {"original": "\\([[0-9.]+ - [0-9.]+%\\]) Damage to Close Enemies", "new": "近距離の敵へのダメージ$1"},
+    {"original": "(\\[[0-9.]+ - [0-9.]+%\\]) Damage to Close Enemies", "new": "近距離の敵へのダメージ$1"},
 
     {"original": "1h Sword", "new": "剣"},
     {"original": "2h Sword", "new": "両手剣"},
