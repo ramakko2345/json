@@ -807,6 +807,9 @@
     {"original": "Total Armor", "new": "防御力"},
     {"original": "Resource Generation", "new": "リソース生成量"},
     {"original": "Basic Skill Damage", "new": "基本スキルダメージ"},
+    {"original": "Bash Cleaves for", "new": "バッシュの"},
+
+     [82.5 - 105%] Damage (Furious Augments - Weapons)
     
     {"original": "Damage", "new": "ダメージ"},
     {"original": "Ranks To", "new": "ランク："},
