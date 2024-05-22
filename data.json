@@ -1519,6 +1519,7 @@
     {"// コメント": "---------------------------------------- その他 ----------------------------------------"},    
 
     {"original": "Max Evade Charges", "new": "最大回避チャージ"},
+    {"original": "Resource Regeneration", "new": "リソース・リジェネレーション"},
 
     {"original": "Helm", "new": "兜"},
     {"original": "Chest Armor", "new": "胸当て"},
