@@ -1057,7 +1057,7 @@
 
     {"original": "Barbarian Motion", "new": "バーバリアンの立ち回り"},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Movement Speed", "new": "移動速度 $1"},
-    {"original": "[13.5-22.5%]Movement Speed for (\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Seconds After Killing an Elite", "new": "エリートを倒した後の$2秒間、移動速度 $1"},
+    {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Movement Speed for (\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Seconds After Killing an Elite", "new": "エリートを倒した後の$2秒間、移動速度 $1"},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Lunging Strike Range", "new": "ダッシュストライクの射程 $1"},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Charge Cooldown Reduction", "new": "チャージのクールダウン時間短縮 $1"},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Leap Cooldown Reduction", "new": "リープのクールダウン時間短縮 $1"},
