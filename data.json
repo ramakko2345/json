@@ -1342,7 +1342,7 @@
     {"original": "Rogue Recovery", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Flurry Healing", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?to Siphoning Strikes", "new": ""},
-    {"original": "[1-([0-9.]+ )?] to Mending Obscurity", "new": ""},
+    {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?to Mending Obscurity", "new": ""},
 
     {"original": "Rogue Motion", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Movement Speed from Blade Shift", "new": ""},
@@ -1439,7 +1439,7 @@
     {"original": "Frost Cage", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Frost Nova Cooldown Reduction", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Chill Slow Potency", "new": ""},
-    {"original": "[1-([0-9.]+ )?] to Cold Front", "new": ""},
+    {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?to Cold Front", "new": ""},
 
     {"original": "Pyromancy Endurance", "new": ""},
     {"original": "Lucky Hit: Up to a ([0-9.]+% )?Chance to Heal (\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Life", "new": ""},
