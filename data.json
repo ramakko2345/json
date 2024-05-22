@@ -1,5 +1,6 @@
 {
   "aspects":[
+    {"original": "Lucky Hit: Up to a ([0-9.]+% )?Chance to Deal [(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Shadow Damage", "new":"エラーテスト"},
     {"// コメント": "---------------------------------------- 化身 ----------------------------------------"},
     {"original": "Ancestral Charge", "new":"祖霊の力満ちし化身"},
     {"original": "Ancestral Echoes", "new":"祖霊の木霊の化身"},
