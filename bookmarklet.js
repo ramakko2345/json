@@ -11,7 +11,7 @@ javascript:(function(){
         }
       } else if (node.nodeType === 3) {
         replacements.forEach(rep => {
-          if (rep.original) {
+          if (rep.original && rep.new && rep.new.length > 0) {
             const regExp = new RegExp(isAspect ? `Aspect of ${rep.original}|${rep.original} Aspect|of ${rep.original}|${rep.original} of` : rep.original, options);
             node.nodeValue = node.nodeValue.replace(regExp, rep.new);
           }
