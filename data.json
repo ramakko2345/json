@@ -1035,7 +1035,7 @@
     {"original": "Lucky Hit: Up to a ([0-9.]+% )?Chance to Deal (\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Lightning Damage", "new": "幸運の一撃：最大$1の確率で$2の電撃ダメージを与える"},
     {"original": "Lucky Hit: Up to a ([0-9.]+% )?Chance to Deal (\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Cold Damage", "new": "幸運の一撃：最大$1の確率で$2の冷気ダメージを与える"},
     {"original": "Lucky Hit: Up to a ([0-9.]+% )?Chance to Deal (\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Poison", "new": "幸運の一撃：最大$1の確率で$2の毒ダメージを与える"},
-    {"original": "Lucky Hit: Up to a ([0-9.]+% )?Chance to Deal [(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Shadow Damage", "new": "幸運の一撃：最大$1の確率で$2のシャドウダメージを与える"},
+    {"original": "Lucky Hit: Up to a ([0-9.]+% )?Chance to Deal (\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Shadow Damage", "new": "幸運の一撃：最大$1の確率で$2のシャドウダメージを与える"},
 
 
     {"// コメント": "Barbarian"},
