@@ -883,7 +883,7 @@
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Ranks to Spark", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Ranks to Fire Bolt", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Ranks to Arc Lash", "new": ""},
-    {"original": "+([0-9.]+ )?Max Evade Charges", "new": ""},
+    {"original": "([+0-9.]+ )?Max Evade Charges", "new": ""},
     {"original": "Evade Grants +([0-9.]+% )?Movement Speed for ([0-9.]+ )?Second", "new": ""},
     {"original": "Attacks Reduce Evade's Cooldown by ([0-9.]+ )?Seconds", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Movement Speed", "new": "移動速度 $1"},
