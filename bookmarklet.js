@@ -45,6 +45,7 @@ javascript:(function(){
     const dup = (replacements, lists) => {
       replacements.forEach(rep => {
         if (rep.original && rep.new && rep.new.length > 0) {
+          rep.original = rep.original.replace(/'/g, '[\'’]');
           if (map.has(rep.original)) {
             console.log('exists:', rep.original, rep.new, map.get(rep.original));
           } else {
