@@ -786,11 +786,11 @@
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Vulnerable Damage", "new": "脆弱ダメージ $1"},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Damage Over Time", "new": ""},
     {"original": "Lucky Hit: (Up to a )?(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Chance to Make Enemies Vulnerable for ([0-9.]+ )?Seconds", "new": "幸運の一撃:確率で$3秒間敵を脆弱にする"},
-    {"original": "Lucky Hit: (Up to a )?([0-9.]+% )?Chance to Restore  (\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Primary Resource", "new": ""},
+    {"original": "Lucky Hit: (Up to a )?([0-9.]+% )?Chance to Restore (\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Primary Resource", "new": "幸運の一撃:確率でプライマリリソースを回復 $3"},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Dodge Chance", "new": "回避率 $1"},
     {"original": "([+0-9.]+ )?Max Evade Charges", "new": "最大回避チャージ $1"},
-    {"original": "Evade Grants ([+0-9.]+% )?Movement Speed for ([0-9.]+ )?Second", "new": ""},
-    {"original": "Attacks Reduce Evade's Cooldown by ([0-9.]+ )?Seconds", "new": ""},
+    {"original": "Evade Grants ([+0-9.]+% )?Movement Speed for ([0-9.]+ )?Second", "new": "回避で移動速度が増加 $1"},
+    {"original": "Attacks Reduce Evade's Cooldown by ([0-9.]+ )?Seconds", "new": "攻撃すると回避のクールダウンが$1秒減少"},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Movement Speed", "new": "移動速度 $1"},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Brawling Skills", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Damage", "new": "ダメージ $1"},
@@ -813,14 +813,14 @@
     {"original": "([0-9.]+ )?Life On Kill", "new": "キル時のライフ回復量 $1"},
     {"original": "([0-9.]+% )?Lucky Hit Chance", "new": "幸運の一撃発生率 $1"},
     {"original": "([0-9.]+% )?Damage to Crowd Controlled Enemies", "new": "操作障害状態の敵へのダメージ $1"},
-    {"original": "([0-9.]+% )?Block Chance", "new": ""},
-    {"original": "([0-9.]+% )?Block Damage Reduction", "new": ""},
+    {"original": "([0-9.]+% )?Block Chance", "new": "ブロック率 $1"},
+    {"original": "([0-9.]+% )?Block Damage Reduction", "new": "ブロック時ダメージ減少率 $1"},
     {"original": "([0-9.]+% )?Main Hand Weapon Damage", "new": "メインハンド武器のダメージ $1"},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Damage Reduction", "new": "ダメージ減少率 $1"},
   
     {"// コメント": "---------------------------------------- 焼き戻し ----------------------------------------"},
     
-    {"// コメント": "Every Class"},
+    {"// コメント": "クラス共通 ----------------------------------------"},
     {"original": "Natural Resistance", "new": "生得の耐性"},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Fire Resistance", "new": "火炎耐性 $1"},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Lightning Resistance", "new": "電撃耐性 $1"},
@@ -870,7 +870,7 @@
     {"original": "Lucky Hit: Up to a ([0-9.]+% )?Chance to Deal (\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Shadow Damage", "new": "幸運の一撃：最大$1の確率で$2のシャドウダメージを与える"},
 
 
-    {"// コメント": "Barbarian"},
+    {"// コメント": "バーバリアン ----------------------------------------"},
     {"original": "Barbarian Protection", "new": "バーバリアンの守護"},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?to Imposing Presence", "new": "威風堂々 $1"},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?to Martial Vigor", "new": "武力行使 $1"},
@@ -975,8 +975,7 @@
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Earthquake Size", "new": "アースクエイクの大きさ $1"},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Earthquake Duration", "new": "アースクエイクの持続時間 $1"},
 
-
-    {"// コメント": "Druid"},
+    {"// コメント": "ドルイド ----------------------------------------"},
     {"original": "Nature Magic Wall", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Cyclone Armor Cooldown Reduction", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Earthen Bulwark Cooldown Reduction", "new": ""},
@@ -1065,8 +1064,7 @@
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Rabies Duration", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Lacerate Duration", "new": ""},
 
-
-    {"// コメント": "Necromancer"},
+    {"// コメント": "ネクロマンサー ----------------------------------------"},
     {"original": "Blood Endurance", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Chance for Hemorrhage to Form Blood Orbs", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Blood Orb Healing", "new": ""},
@@ -1165,7 +1163,7 @@
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Reap Duration", "new": ""},
 
 
-    {"// コメント": "Rogue"},
+    {"// コメント": "ローグ ----------------------------------------"},
     {"original": "Rogue Cloaking", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Concealment Cooldown Reduction", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Concealment Duration", "new": ""},
@@ -1220,9 +1218,9 @@
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Dash Cooldown Reduction", "new": ""},
 
     {"original": "Imbuement Abundance", "new": ""},
-    {"original": "Shadow Imbue Lasts For  + (\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Casts", "new": ""},
-    {"original": "Poison Imbue Lasts For + (\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Casts", "new": ""},
-    {"original": "Cold Imbue Lasts For + (\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Casts", "new": ""},
+    {"original": "Shadow Imbue Lasts For ([+ ]+)?(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Casts", "new": ""},
+    {"original": "Poison Imbue Lasts For ([+ ]+)?(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Casts", "new": ""},
+    {"original": "Cold Imbue Lasts For ([+ ]+)?(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Casts", "new": ""},
 
     {"original": "Rogue Invigoration", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Puncture Resource Generation", "new": ""},
@@ -1266,8 +1264,7 @@
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Caltrops Duration", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Poison Trap Duration", "new": ""},
 
-
-    {"// コメント": "Sorcerer"},
+    {"// コメント": "ソーサラー ----------------------------------------"},
     {"original": "Frost Cage", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Frost Nova Cooldown Reduction", "new": ""},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Chill Slow Potency", "new": ""},
