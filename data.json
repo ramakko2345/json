@@ -1354,6 +1354,7 @@
     {"// コメント": "---------------------------------------- その他 ----------------------------------------"},    
 
     {"original": "Resource Regeneration", "new": "リソース・リジェネレーション"},
+    {"original": "Max Life", "new": "最大ライフ"},
 
     {"original": "Helm", "new": "兜"},
     {"original": "Chest Armor", "new": "胸当て"},
