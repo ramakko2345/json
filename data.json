@@ -823,7 +823,7 @@
     {"original": "Offensive", "new": "攻撃"},
     {"original": "Defensive", "new": "防御"},
     {"original": "Utility", "new": "ユーティリティ"},
-    {"original": "Mobility)", "new": "機動力"},
+    {"original": "Mobility", "new": "機動力"},
     
     {"// コメント": "クラス共通 ----------------------------------------"},
     {"original": "Natural Resistance", "new": "生得の耐性"},
