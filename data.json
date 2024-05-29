@@ -823,6 +823,7 @@
     {"original": "Offensive", "new": "攻撃"},
     {"original": "Defensive", "new": "防御"},
     {"original": "Utility", "new": "ユーティリティ"},
+    {"original": "Resource", "new": "リソース"},
     {"original": "Mobility", "new": "機動力"},
     
     {"// コメント": "クラス共通 ----------------------------------------"},
