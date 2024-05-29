@@ -760,7 +760,7 @@
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Thorns", "new": "荊棘の加護 $1"},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Healing Received", "new": "受ける回復量 $1"},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Lucky Hit Chance", "new": "幸運の一撃発生率 $1"},
-    {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )+Armor", "new": "防御力 $1"},
+    {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?(?<!Chest )Armor", "new": "防御力 $1"},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Resistance to All Elements", "new": "全耐性 $1"},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Cold Resistance", "new": "冷気耐性 $1"},
     {"original": "(\\[[0-9.]+([ -]+[0-9.]+)?%?\\]%? )?Fire Resistance", "new": "火炎耐性 $1"},
@@ -1531,7 +1531,6 @@
     {"original": "Slashing Weapon", "new": "斬撃武器"},
     {"original": "Dual-Wield Weapon", "new": "二刀流武器"},
     {"original": "Weapon", "new": "武器"},
-    {"original": "Armor", "new": "胸当て"},
     
 
     {"original": "1h Sword", "new": "剣"},
