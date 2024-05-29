@@ -820,7 +820,7 @@
   
     {"// コメント": "---------------------------------------- 焼き戻し ----------------------------------------"},
     {"original": "Weapons", "new": "武器"},
-    {"original": "Offencive", "new": "攻撃"},
+    {"original": "Offensive", "new": "攻撃"},
     {"original": "Defensive", "new": "防御"},
     {"original": "Utility", "new": "ユーティリティ"},
     {"original": "Mobility)", "new": "機動力"},
