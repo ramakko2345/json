@@ -261,6 +261,37 @@
     {"original": "Slaughter", "new":"殺戮の化身"},
     {"original": "Metamorphosis", "new":"変容の化身"},
     
+    {"// コメント": "シーズン5"},
+    {"original": "Creeping Death", "new": "忍び寄る死の化身"},
+    {"original": "Inevitable Fate", "new": "避けがたき運命の化身"},
+    {"original": "Sly Steps", "new": "闇の舞踏の化身"},
+    {"original": "the Dark Dance", "new": "闇の舞踏の化身"},
+    {"original": "the Prudent Heart", "new": "賢明なる心の化身"},
+    {"original": "Sticker-thought", "new": "棘ある思念の化身"},
+    {"original": "Wildbolt", "new": "放縦なる電撃打ちし化身"},
+
+    {"original": "Executioner's", "new": "処刑人の化身", "class": "Barbarian"},
+    {"original": "Anger Management", "new": "怒りを律する化身", "class": "Barbarian"},
+    {"original": "the Fortress", "new": "要塞の化身", "class": "Barbarian"},
+    {"original": "Forward Momentum", "new": "前進する機運の化身", "class": "Barbarian"},
+
+    {"original": "the Rushing Wilds", "new": "急行する荒野の化身", "class": "Druid"},
+    {"original": "Moonrage", "new": "月の怒り迸る化身", "class": "Druid"},
+    {"original": "Rejuvenating", "new": "英気を養いし化身", "class": "Druid"},
+    {"original": "Spirit Bond", "new": "精霊との絆を持ちし化身", "class": "Druid"},
+
+    {"original": "Creeping Mist", "new": "影霧の化身", "class": "Necromancer"},
+    {"original": "the Cursed Aura", "new": "呪われしオーラの化身", "class": "Necromancer"},
+    {"original": "the Great Feast", "new": "大いなる供宴の化身", "class": "Necromancer"},
+
+    {"original": "True Sight", "new": "真眼の化身", "class": "Rogue"},
+    {"original": "Coldclip", "new": "凍り付きし化身", "class": "Rogue"},
+    {"original": "Clandestine", "new": "内密なる化身", "class": "Rogue"},
+
+    {"original": "Winter Touch", "new": "冬の手触りの化身", "class": "Sorcerer"},
+    {"original": "Lightning Rod", "new": "雷電放つ化身", "class": "Sorcerer"},
+    {"original": "Firestarter", "new": "火起こし人が携えし化身", "class": "Sorcerer"},
+
     {"// コメント": "---------------------------------------- 化身終わり ----------------------------------------"}
   ],
 
@@ -748,6 +779,29 @@
     {"original": "Tal Rasha's Iridescent Loop", "new":"タル・ラシャの虹色の輪"},
     {"original": "Blue Rose", "new":"青い薔薇"},
     
+    {"// コメント": "シーズン5"},    
+    {"original": "Shard of Verathiel", "new":"ヴェラティエルの欠片"},
+    {"original": "Crown of Lucion", "new":"ルシオンの王冠"},
+    {"original": "Tyrael’s Might", "new":"ティラエルの威力"},
+    {"original": "Endurant Faith", "new":"耐え忍ぶ信念"},
+    {"original": "Rakanoth's Wake", "new":"ラカノスの足跡"},
+    {"original": "Locran's Talisman", "new":"ロックランのタリスマン"},
+
+    {"original": "The Third Blade", "new":"第三の刃 "},
+    {"original": "Unbroken Chain", "new":"不壊の鎖"},
+
+    {"original": "The Basilisk", "new":"バシリスク"},
+    {"original": "Mjölnic Ryng", "new":"雷神鎚の指輪"},
+
+    {"original": "The Mortacrux", "new":"モルタクラクス"},
+    {"original": "Path of Trag'Oul", "new":"トラグ=オウルの道"},
+
+    {"original": "The Umbracrux", "new":"アンブラクラクス"},
+    {"original": "Shroud of Khanduras", "new":"カンデュラスの衣"},
+
+    {"original": "Vox Omnium", "new":"ヴォクス・オムニウム"},
+    {"original": "Axial Conduit", "new":"軸の導管"},
+
 
     {"// コメント": "---------------------------------------- アフィックス ----------------------------------------"},    
     {"original": "Brawling Cooldown Reduction", "new": "決闘スキルのクールダウン時間短縮"},
