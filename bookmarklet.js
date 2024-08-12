@@ -12,10 +12,11 @@ javascript:(function(){
       } else if (node.nodeType === 3) {
         replacements.forEach(rep => {
           if (rep.original && rep.new && rep.new.length > 0 && !rep.error) {
-            const regex = isAspect ? `Aspect of ${rep.original}|${rep.original} Aspect|of ${rep.original}|${rep.original} of` : rep.original;
+            let regex = isAspect ? `Aspect of ${rep.original}|${rep.original} Aspect|of ${rep.original}|${rep.original} of` : rep.original;
+            let to = rep.new + (rep['boss_locates'] != null ? '(' + rep['boss_locates'] + ')' : '');
             try {
               const regExp = new RegExp(regex, options);
-              node.nodeValue = node.nodeValue.replace(regExp, rep.new);
+              node.nodeValue = node.nodeValue.replace(regExp, to);
             } catch(e) {
               console.error('Error replace :', e, regex, rep);
               rep.error = true;
@@ -33,7 +34,6 @@ javascript:(function(){
     replaceNodes(targetNode, json.replacements, false, 'g');
     replaceNodes(targetNode, json.aspects, false, 'g');
   };
-  
 
   fetch(url + '?' + new Date().getTime())
   .then(response => response.json())
@@ -93,6 +93,4 @@ javascript:(function(){
     }
   })
   .catch(error => console.error('Error loading JSON:', error));
-
-
 })();
