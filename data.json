@@ -1,6 +1,6 @@
 {
   "aspects":[
-      {"// コメント": "---------------------------------------- 化身 ----------------------------------------"},
+    {"// コメント": "---------------------------------------- 化身 ----------------------------------------"},
 
     {"// コメント": "---------------------------------------- All ----------------------------------------"},
     {"original": "Accelerating", "new": "加速の化身", "class": "All"},
@@ -313,6 +313,69 @@
     {"original": "Stable", "new": "安定的な化身", "class": "Sorcerer"},
     {"original": "Storm Swell", "new": "大嵐の化身", "class": "Sorcerer"},
     {"original": "Winter Touch", "new": "冬の手触りの化身", "class": "Sorcerer"},
+
+    {"// コメント": "---------------------------------------- Spiritbone ----------------------------------------"},
+    {"original": "Bruiser's Aspect", "new": "傷負いが携えし化身", "class": "Spiritbone"},
+    {"original": "Aspect of Deflection", "new": "偏向の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Tenacity", "new": "頑強の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Kinetic Suppression", "new": "動的制圧の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Temporal Incisions", "new": "時空切開の化身", "class": "Spiritbone"},
+
+    {"original": "Aspect of Wild Claws", "new": "荒々しき鉤爪の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Falling Feathers", "new": "舞い落ちる羽根の化身", "class": "Spiritbone"},
+    {"original": "Reaper's Aspect", "new": "刈り手が携えし化身", "class": "Spiritbone"},
+    {"original": "Unrelenting Aspect", "new": "無慈悲なる化身", "class": "Spiritbone"},
+    {"original": "Rebounding Aspect", "new": "舞い戻りし化身", "class": "Spiritbone"},
+    {"original": "Aspect of Pestilence", "new": "悪疫の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Bristling Vengeance", "new": "逆毛立つ復讐の化身", "class": "Spiritbone"},
+    {"original": "Insatiable Aspect", "new": "飽くなき化身", "class": "Spiritbone"},
+    {"original": "Bristleback Aspect", "new": "刺毛備えし化身", "class": "Spiritbone"},
+    {"original": "Tormentor's Aspect", "new": "拷問者が携えし化身", "class": "Spiritbone"},
+    {"original": "Fell Soothsayer's Aspect", "new": "堕獄の易者の化身", "class": "Spiritbone"},
+
+    {"original": "Aspect of Turbulence", "new": "乱気流の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Apprehension", "new": "危惧の化身", "class": "Spiritbone"},
+
+    {"original": "Aspect of Momentum", "new": "機運の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Haste", "new": "迅速なる化身", "class": "Spiritbone"},
+
+    {"original": "Ruthless Aspect", "new": "仮借なき化身", "class": "Spiritbone"},
+    {"original": "Raider's Aspect", "new": "襲撃者が携えし化身", "class": "Spiritbone"},
+    {"original": "Aspect of Avoidance", "new": "忌避の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Endurance", "new": "持久の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Invigorating Will", "new": "活性化する意志の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Layered Wards", "new": "多重結界の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Interdiction", "new": "封じ込めの化身", "class": "Spiritbone"},
+    {"original": "Aspect of Forest Power", "new": "森の力の化身", "class": "Spiritbone"},
+
+
+    {"original": "Aspect of Rallying Reversal", "new": "反転攻勢の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Unyielding Hits", "new": "多重結界の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Combined Strikes", "new": "連撃の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Infestation", "new": "寄生する毒虫の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Redirected Force", "new": "転嫁する力の化身", "class": "Spiritbone"},
+    {"original": "Starving Ravager's Aspect", "new": "飢えるラヴェジャーの化身", "class": "Spiritbone"},
+    {"original": "Aspect of Recalling Feathers", "new": "呼び戻す羽根の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Simple Reprisal", "new": "単純な報復の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Plains Power", "new": "平原の力の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Potent Exchange", "new": "即応せし潜在力の化身", "class": "Spiritbone"},
+
+
+    {"original": "Aspect of Exhilaration", "new": "活気の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Empowered Feathers", "new": "力満ちし羽根の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Alacrity", "new": "敏活の化身", "class": "Spiritbone"},
+
+
+    {"original": "Aspect of Binding Morass", "new": "搦めし泥沼の化身", "class": "Spiritbone"},
+    {"original": "Duelist's Aspect", "new": "決闘士が携えし化身", "class": "Spiritbone"},
+    {"original": "Aspect of Reactive Armor", "new": "反射防御の化身", "class": "Spiritbone"},
+    {"original": "Menacing Aspect", "new": "威圧的な化身", "class": "Spiritbone"},
+    {"original": "Aspect of Soil Power", "new": "地の力の化身", "class": "Spiritbone"},
+
+
+    {"original": "Aspect of Fleet Wings", "new": "速やかなる羽の化身", "class": "Spiritbone"},
+    {"original": "Aspect of Sky Power", "new": "空の力の化身", "class": "Spiritbone"},
+
 
     {"// コメント": "---------------------------------------- 化身終わり ----------------------------------------"}
   ],
@@ -818,6 +881,26 @@
     {"original": "Shroud of Khanduras", "new": "カンデュラスの衣", "boss_locates": "ｸﾞﾘｺﾞ"},
     {"original": "Vox Omnium", "new": "ヴォクス・オムニウム", "boss_locates": "獄炎"},
     {"original": "Axial Conduit", "new": "軸の導管", "boss_locates": "ｸﾞﾘｺﾞ", "boss_locates": "ｸﾞﾘｺﾞﾞ"},
+
+    {"// コメント": "スピリットボーン"},
+    {"original": "Harmony of Ebewaka", "new": "エベワカの調和"},
+    {"original": "Scorn of the Earth", "new": "土への嘲弄"},
+    {"original": "Jacinth Shell", "new": "風信子石の甲殻"},
+    {"original": "Craze of the Dead God", "new": "死した神の狂気"},
+    {"original": "Loyalty's_Mantle", "new": "忠誠の外套"},
+    {"original": "Protection of the Prime", "new": "原始の守護"},
+
+    {"original": "Wushe Nak Pa", "new": "ウーシー ナク パ"},
+    {"original": "Sepazontec", "new": "セパゾンテック"},
+    {"original": "Rod of Kepeleke", "new": "ケペレキの杖"},
+    {"original": "Nesekem the Herald", "new": "布告者ネセケム"},
+
+    {"original": "Wound Drinker", "new": "傷飲みの輪"},
+    {"original": "Ring of Writhing Moon", "new": "もがける月の指輪"},
+    {"original": "Band of First Breath", "new": "呼吸始めたる者の指輪"},
+    {"original": "Peacemonger's_Signet", "new": "平和唱道者の印章指輪"},
+    {"original": "Ring of the Midday Hunt", "new": "真昼の狩りの指輪"},
+    {"original": "Ring of the Midnight Sun", "new": "真夜中の太陽の指輪"},
 
     {"// コメント": "---------------------------------------- アフィックス ----------------------------------------"},    
     {"original": "Brawling Cooldown Reduction", "new": "決闘スキルのクールダウン時間短縮"},
