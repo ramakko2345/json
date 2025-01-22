@@ -1565,6 +1565,29 @@
     {"original": "Aspect of Fleet Wings", "new": "速やかなる羽の化身", "class": "Spiritbone"},
     {"original": "Aspect of Sky Power", "new": "空の力の化身", "class": "Spiritbone"},
     
+    
+    {"// コメント": "---------------------------------------- 邪教の宝石(シーズン7) ----------------------------------------"},    
+    {"original": "Wicked Pact", "new": "邪悪なる盟約"},
+    {"original": "Heart of Anima", "new": "アニマの心"},
+    {"original": "Toadling's Wish", "new": "幼き蛙の願い"},
+    {"original": "Phantom String", "new": "幽玄なるストリング"},
+    {"original": "Elder Sigil", "new": "長老の紋章"},
+    {"original": "Killing Wind", "new": "魂奪いの風"},
+    {"original": "Witching Hour", "new": "丑三つ時"},
+    {"original": "Raging Enigma", "new": "荒れ狂う謎"},
+    {"original": "Voice of the Stars", "new": "星々の声"},
+    {"original": "Mind Wreath", "new": "精神のリース"},
+    {"original": "Spiral Coin", "new": "螺旋のコイン"},
+    {"original": "Cornucopia", "new": "豊穣の角"},
+    {"original": "Vulture Talon", "new": "禿鷲の鉤爪"},
+    {"original": "Pointed Finger", "new": "さす指"},
+    {"original": "Vile Phylactery", "new": "不浄なる聖句箱"},
+    {"original": "Friend of the Bog", "new": "沼地の友"},
+    {"original": "Moonlight Ward", "new": "月光の護法"},
+    {"original": "Dust Stone", "new": "粉塵石"},
+    {"original": "Hungering Void", "new": "飢えの虚空"},
+
+    
     {"// コメント": "---------------------------------------- その他 ----------------------------------------"},    
 
     {"original": "Resource Regeneration", "new": "リソース・リジェネレーション"},
